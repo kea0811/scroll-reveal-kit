@@ -1,6 +1,6 @@
 {
   "name": "scroll-reveal-kit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Drop-in IntersectionObserver reveal animations for React. Tiny, accessible, dependency-free.",
   "keywords": [
     "react",
