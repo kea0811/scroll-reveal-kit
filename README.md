@@ -12,6 +12,10 @@ Most "animate on scroll" libraries come with their own animation engine, a confi
 
 It's the boring 90% of "fade something in when it scrolls into view" — with sensible defaults, full TypeScript types, a respectful default for `prefers-reduced-motion`, and just enough escape hatches to keep you out of trouble.
 
+## For AI coding agents
+
+Drop [`SKILL.md`](./SKILL.md) into your AI editor / Claude Code workspace and it learns how to use this library. Tells the agent when to reach for it, the install + canonical pattern, the public API, and the gotchas that are easy to miss.
+
 ## Install
 
 **From GitHub** (always works):
